@@ -11,7 +11,7 @@
     {
         static void Main(string[] args)
         {
-            string filePath = "TestImages/Märzenbecher.png";
+            string filePath = "TestImages/Blaustern.png";
             string pathOut = Path.GetFileNameWithoutExtension(filePath);
 
             Bitmap bmpIn = new Bitmap(filePath);
