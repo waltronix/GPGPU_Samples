@@ -1,0 +1,3 @@
+Some sample codes for GPU computing.
+
+Currently some simple CUDA kernels are implemented.
